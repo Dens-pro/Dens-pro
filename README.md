@@ -1,20 +1,18 @@
-# Salut! 
-
-### Freelance AI Engineer
-Ce que j'aime, c'est porter un projet de sa conception à sa livraison: *Conception -> ML/DL -> Dev -> MLops/GenAI -> Prod.* Dans cette full pipeline, mon focus particulier est actuellement le **GenAI**. 
+## Data scientist / AI Engineer
+Ce que j'aime c'est porter un projet de sa conception à sa livraison: **_Conception -> _ML/DL -> _Dev -> _MLops/GenAI -> _Prod.** Dans cette full pipeline, mon focus particulier est actuellement le **GenAI**. 
 
 J'évolue aussi bien en solo qu'en équipe.
 
 ## Langues parlées
->**Français••••  Anglais••••  Allemand••-- Créole••••**
+>**Français••••  Anglais••••  Allemand•••-**
 
 ## Jette un oeil ici
 
 |   Projets         |    Description     |
 |-------------------|--------------------|
-|                   |                    |
-|                   |                    |
-|                   |                    |
+| Mini LLM from scratch|                     |
+| Flight price (avec UI)|                    |
+| Éditeur vidéo automatique|                    |
 
 ## Outils et technologies utilisées
 **Langues**: Python, JavaScript
@@ -31,6 +29,11 @@ Sensible aux bonnes pratiques de base, comme par exemple: authentification par c
 ## Sandbox et Apprentissage
 *Petits projets et exercices pour explorer des concepts ML/DL et GenAI en profondeur*. 
 
--
--
+- Régression linéaire from scratch (numpy)
+- MLP binaire from scratch 
+- XOR neural network avec UI en React 
+- Fonction d'activation et benchmark MLP 
+- BPE tokenizer from scratch 
+- Fruit Manager (dashboard streamlit) 
+
 
